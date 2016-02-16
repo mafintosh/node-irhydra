@@ -1,7 +1,7 @@
 # node-irhydra
 
 Command line tool that runs node with the profiling flags needed to use http://mrale.ph/irhydra/2/.
-Credit to @andreasmadsen for originally helping me with the profiling flags.
+Credit to [@andreasmadsen](https://github.com/andreasmadsen) for originally helping me with the profiling flags.
 
 ```
 npm install -g node-irhydra
